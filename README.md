@@ -25,14 +25,14 @@ I'm a passionate **Full Stack Developer** based in **Karachi-{akistan**. I love 
 * ⚡ Fun fact: **I spend more time naming variables than writing the actual logic.**
 
 ---
-
 ### 📊 My GitHub Analytics
 
-![Kabeer's Stats](https://github-readme-stats.vercel.app/api?username=Kabeer099&show_icons=true&theme=radical&hide_border=false)
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kabeer099&show_icons=true&theme=visual_studio&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer099&layout=compact&theme=visual_studio&hide_border=false" />
+</p>
 
-![Kabeer's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer099&layout=compact&theme=radical&hide_border=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kabeer099&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kabeer099&theme=visual_studio)
 
 ---
 
