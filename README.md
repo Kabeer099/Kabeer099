@@ -26,10 +26,13 @@ I'm a passionate **Full Stack Developer** based in **Karachi-{akistan**. I love 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Analytics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kabeer099&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer099&layout=compact&theme=radical)
+![Kabeer's Stats](https://github-readme-stats.vercel.app/api?username=Kabeer099&show_icons=true&theme=radical&hide_border=false)
+
+![Kabeer's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer099&layout=compact&theme=radical&hide_border=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kabeer099&theme=radical)
 
 ---
 
