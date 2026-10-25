@@ -1,77 +1,25 @@
-<div align="center">
+### Hi, I'm Kabeer Ahmed
 
-<a href="https://kabeer.site/">
-  <img src="./banner.svg" alt="Kabeer Ahmed — Full-Stack Engineer & UI/UX Expert" width="100%" />
-</a>
+Full-Stack Developer (React, Next.js, Node.js, TypeScript, Laravel) & Automation Engineer building web applications, browser extensions, and cloud data scrapers.
 
-<br />
-
-[![Official Portfolio](https://img.shields.io/badge/🌐_OFFICIAL_PORTFOLIO-KABEER.SITE-5067f4?style=for-the-badge&labelColor=0d1222)](https://kabeer.site/)
-[![Play Asphalt Overdrive 3D](https://img.shields.io/badge/🏎️_PLAY_ASPHALT_3D-OFFLINE_PWA-e12d39?style=for-the-badge&labelColor=0d1222)](https://kabeer.site/arcade/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-KABEER_AHMED-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1222)](https://www.linkedin.com/in/kabeerahmed-dev)
-[![Email Me](https://img.shields.io/badge/EMAIL-KABEER.AHMED0120%40GMAIL.COM-22a06b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1222)](mailto:kabeer.ahmed0120@gmail.com)
-
-</div>
+- **Portfolio:** [kabeer.site](https://kabeer.site)
+- **Apify Store (5 Published Cloud Scrapers):** [apify.com/kabeer099](https://apify.com/kabeer099)
+- **Firefox Add-ons Store:** [Mozilla Developer Profile](https://addons.mozilla.org/en-US/firefox/user/20275601/)
+- **Contact:** [kabeer.ahmed0120@gmail.com](mailto:kabeer.ahmed0120@gmail.com)
 
 ---
 
-### ⚡ Behind the Code
+### Published Browser Extensions & Cloud Scrapers
 
-Hey, I'm **Kabeer Ahmed** — a **Full-Stack Engineer & UI/UX Specialist** based in **Karachi, Pakistan**. I architect fast, scalable web applications and craft interactive digital experiences where reliable backend engineering meets a sharp editorial design point of view.
-
-- 🏛️ **Current Role**: **IT Faculty & Full-Stack Web Development Instructor** at **Aptech Pakistan** — mentoring aspiring engineers in modern full-stack architecture while shipping production client systems.
-- 🌐 **Interactive Portfolio**: Explore my selected works, 3D WebGL experiences, and case studies at **[kabeer.site](https://kabeer.site/)**.
-- 🏎️ **Offline-First Web Engineering**: Creator of **[Asphalt Overdrive 3D](https://kabeer.site/arcade/)** ([Source Repo](https://github.com/Kabeer099/kabeer-arcade)) — a 60FPS 3D highway traffic racer built with vanilla HTML5 Canvas, Web Audio V8 synthesis, and a Service Worker that runs **100% offline** after a single visit.
-- 📫 **Direct Contact**: **[kabeer.ahmed0120@gmail.com](mailto:kabeer.ahmed0120@gmail.com)**
-
----
-
-### 🛠️ Tech Arsenal & Engineering Stack
-
-**Frontend & Interactive UI/UX**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Three.js_/_WebGL-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/GSAP_Motion-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
-  <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
-**Backend, APIs & Databases**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PHP_/_Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-5067f4?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-</p>
-
-**Design, Tooling & Deployment**
-<p>
-  <img src="https://img.shields.io/badge/Figma_UI/UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/PWA_&_Service_Workers-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
-  <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+- **[LeadSnap Pro](https://addons.mozilla.org/en-US/firefox/addon/leadsnap-pro-b2b-extractor/)** - Manifest V3 browser extension for extracting verified B2B emails, phone numbers, WhatsApp links, and social profiles with 1-click CSV/JSON export.
+- **[MetaPeek Pro](https://addons.mozilla.org/en-US/firefox/addon/metapeek-pro-seo-auditor/)** - On-page technical SEO and JSON-LD Schema.org inspector extension for Chrome and Firefox.
+- **[B2B Website Email, WhatsApp & Social Scraper](https://apify.com/kabeer099/b2b-contact-email-social-scraper)** - High-concurrency Crawlee Actor for extracting verified company contacts ([Source Repo](https://github.com/Kabeer099/b2b-contact-email-social-scraper)).
+- **[Website Tech Stack, Ad Pixel & SaaS Detector](https://apify.com/kabeer099/website-tech-stack-pixel-detector)** - Detects 40+ website technologies, CMS platforms, Meta/TikTok/Google Ad pixels, GA4/GTM, and live chat widgets.
+- **[Local Business Lead, Schema & Booking Enricher](https://apify.com/kabeer099/local-business-lead-enricher)** - Extracts LocalBusiness structured data, ratings, Google Maps links, and online booking systems (Calendly, Fresha, Mindbody).
+- **[Shopify Store Product & Contact Scraper](https://apify.com/kabeer099/shopify-store-product-contact-scraper)** - Extracts full Shopify product catalogs, variants, pricing, and store contact details.
+- **[Technical SEO Audit & Schema Analyzer](https://apify.com/kabeer099/seo-audit-broken-link-meta-analyzer)** - Automated cloud SEO auditor for meta tags, heading structure, OpenGraph, and image alt attributes.
 
 ---
 
-### 🚀 Featured Production Projects & Experiments
-
-| Project | Architecture & Highlights | Live Experience |
-| :--- | :--- | :--- |
-| **🌐 Kabeer.site — Official Portfolio** | Editorial design system, interactive 3D WebGL shaders, smooth GSAP page transitions & technical case studies. | **[Visit kabeer.site →](https://kabeer.site/)** |
-| **🏎️ Asphalt Overdrive 3D (Offline PWA)** | 3D perspective highway racer with dynamic weather (*Alpine Day, Canyon Sunset, Wet Monsoon*), garage tuning & 100% offline Service Worker cache. | **[Play Game →](https://kabeer.site/arcade/)** · **[Source →](https://github.com/Kabeer099/kabeer-arcade)** |
-| **🏋️ Platinum Fitness** | High-converting fitness platform showcasing advanced training programs, equipment catalogs & membership flows. | **[Case Study →](https://kabeer.site/portfolio-platinum.html)** |
-| **🎓 PF Institute & PF Develop** | Full-stack educational certification portal and software development agency showcase. | **[Case Study →](https://kabeer.site/portfolio-pfinstitute.html)** |
-| **⚡ Interac8 & Susheel KNS Systems** | Interactive digital solutions and corporate enterprise web architecture. | **[Case Study →](https://kabeer.site/portfolio-interac8.html)** |
-
----
-
-<div align="center">
-  <sub>Crafted with precision by <a href="https://kabeer.site/"><strong>Kabeer Ahmed</strong></a> · <a href="https://www.linkedin.com/in/kabeerahmed-dev">LinkedIn</a> · <a href="https://kabeer.site/arcade/">Play Asphalt Overdrive 3D</a></sub>
-</div>
+### Core Stack
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Express` · `PHP / Laravel` · `WordPress / WooCommerce` · `Tailwind CSS` · `GSAP / WebGL` · `Crawlee / Apify` · `Chrome & Firefox Extensions (MV3)`
